@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Unique-py/Unique-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<Marquee> Hi there </Marquee> 
+- 🔭 I’m currently working on Someting You will know soon 
+- 🌱 I’m currently learning Cyber security 
+- 👯 I’m looking to collaborate on Twitter ( https://twitter.com/UN1QU3_py?t=wgRmawEDvFKWNieynrCSwg&s=09)
+- 🤔 I’m looking for help with Block Chain Basics
+- 💬 Ask me about Python ,Web Development(can develop web faster than spider-man does)
+- 📫 How to reach me: via Twitter Mail 
+- 😄 Pronouns: You can Call me genius 
+- ⚡ Fun fact:Some times I use semcolon;in python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
