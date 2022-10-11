@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Unique Shrestha</h1>
-<h3 align="center">A passionate developer fron Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 Here are some ideas to get you started:
 
 
